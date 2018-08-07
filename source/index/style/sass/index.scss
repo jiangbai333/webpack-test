@@ -1,0 +1,11 @@
+@import './variables.scss';
+
+body {
+    background: $body-background-color;
+}
+
+.time {
+    margin: $time-margin;
+    width: $time-width;
+    text-align: $time-text-align;
+}
